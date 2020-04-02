@@ -92,7 +92,7 @@ This project is related to mine because (insert reasons here).
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](24EE7819-7D88-4A1F-8155-794D57FC4E7D.MP4)
+![Image](24EE7819-7D88-4A1F-8155-794D57FC4E7D.MP4) 
 
 ### Reflection ###
 
