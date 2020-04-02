@@ -86,13 +86,13 @@ This project is related to mine because (insert reasons here).
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](PLANTWATERING.JPG)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](24EE7819-7D88-4A1F-8155-794D57FC4E7D.MP4)
 
 ### Reflection ###
 
