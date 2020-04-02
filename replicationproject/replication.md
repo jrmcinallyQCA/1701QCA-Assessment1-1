@@ -15,7 +15,7 @@
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](petfeeder.jpg)
 
 This project is related to mine because (insert reasons here).
 
