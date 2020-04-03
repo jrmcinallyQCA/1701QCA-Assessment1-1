@@ -15,7 +15,7 @@
 
 (Insert URL to project)
 
-![Image](petfeeder.jpg)
+![Image](petfeeder.png)
 
 This project is related to mine because (insert reasons here).
 
@@ -86,7 +86,7 @@ This project is related to mine because (insert reasons here).
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](PLANTWATERING.JPG)
+![Image](PLANTWATERING.png)
 
 ### Additional view ###
 
